@@ -1,0 +1,1 @@
+export default function ProdutoDetalhe() { return <div>Página de produto</div> }

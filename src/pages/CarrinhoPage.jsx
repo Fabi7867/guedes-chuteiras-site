@@ -1,0 +1,1 @@
+export default function CarrinhoPage() { return <div>Página do carrinho</div> }
